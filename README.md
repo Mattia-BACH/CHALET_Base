@@ -3,7 +3,7 @@
 This repo aims at giving some examples and hints about different possible approaches to manage the confiugration of machines running TwinCAT.
 
 > [!Note]
-> There are infinite possible approaches and solutions in relation to configuration management. The right one is always a compromise between robustness, flexibility, easiness of implementation and many other requirements. We propose here some viable approaches based on our experience.
+> There are infinite possible approaches and solutions in relation to configuration management. The right approach is always a compromise between robustness, flexibility, easiness of implementation and many other requirements. We propose here some viable approaches based on our experience.
 
 
 ## In this Repository
@@ -21,9 +21,14 @@ Documentation in [Configuration Management for Windows Targets](ConfigMgmtMSWinT
 (Link to PDF to be added.)
 
 
-### PLC Project
+### PLC Projects
 
-(PLC project in this repo to be described.)
+An exemplary TwinCAT PLC project implementing some automatic routines for the generation, build and deployment of TwinCAT solutions is in the folder [TcProj](TcProj)).
+
+
+### External References
+
+* [GitHub repo by Beckhoff USA](https://github.com/Beckhoff-USA-Community/AAG_Custom-TcPkg-And-Workload) on the exact same topic providing additional examples and hints
 
 
 ## Disclaimer
